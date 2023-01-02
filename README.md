@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! 👋 
+This is Ronald but prefer being called Bronnie... yeah. I did computer science and 🌱I'm currently a student at Microverse, dream is to be a software Engineer.
 
 <!--
 **bronnie313/bronnie313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
