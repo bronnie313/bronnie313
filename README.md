@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bronnie313&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronnie313&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bronnie313&show_icons=true&theme=gray&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronnie313&show_icons=true&theme=gray&layout=compact"/>
 </div>
