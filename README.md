@@ -1,8 +1,9 @@
 <img align="center" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 ### Hey! 👋 
-This is Ronald but prefer being called Bronnie... yeah. I did computer science and 🌱I'm a software engineer and I'm currently open to new opportunities 😄 I love swimming, listening to tech related podcasts and tinkering with the Linux terminal 🤔 I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
- - ⚡ Fun fact: when the going gets tough, the tough get going
+This is Ronald but prefer being called Bronnie... yeah. I did computer science and 🌱I'm a software engineer and I'm currently open to new opportunities 😄 I love listening to tech related podcasts and I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
+
+ - 😀😂 Fun fact : "It works on my machine."
 
 <!--
 **bronnie313/bronnie313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
