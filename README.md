@@ -1,4 +1,5 @@
-<img align="center" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<img align="center" height="300" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+
 
 ### Hey! 👋 
 This is Ronald but prefer being called Bronnie... yeah. 🌱I'm a software engineer with a Bachelor's degree in Computer Science currently looking out for new opportunities 😄 I love listening to tech related podcasts and I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
