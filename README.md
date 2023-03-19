@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 ### Hey! 👋 
-This is Ronald but prefer being called Bronnie... yeah. I did computer science and 🌱I'm a software engineer currently open to new opportunities 😄 I love listening to tech related podcasts and I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
+This is Ronald but prefer being called Bronnie... yeah. 🌱I'm a software engineer with a Bachelor's degree in Computer Science currently looking out for new opportunities 😄 I love listening to tech related podcasts and I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
 
  - 😀😂 Fun fact : "It works on my machine."
 
