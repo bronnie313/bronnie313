@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 
 <h2 align ="left">Find me Online</h2>
 
-<a href="https://www.linkedin.com/in/bisaso-ronald-758017120/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/bisaso_r">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="mailto:bronnie313@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.facebook.com/ronnie.bisaso">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-
+- <a href="https://www.linkedin.com/in/bisaso-ronald-758017120/">LinkedIn 🔗</a> Connect with me on developmental Issues and on Tech Issues 👩‍💻 
+- <a href="https://twitter.com/bisaso_r">Twitter</a> Tweeting Tech and Fun facts ⚡
+- <a href="mailto:bronnie313@gmail.com.com">Gmail</a> Contact me 📧
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
