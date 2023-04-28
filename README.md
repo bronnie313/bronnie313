@@ -5,7 +5,7 @@
 I'm Ronald but you can call me Bronnie 😄... yeah. 🌱I'm a software engineer with a Bachelor's degree in Computer Science currently looking out for new opportunities and I'm looking to collaborate on  JavaScript, React & Ruby on Rails projects
 
  - 😂 Fun fact : "It works on my machine."
- - 😅 Rope Jumping (or skipping) for both physical and mental health
+ - 😅 Rope Jumping (or skipping) for mental health
  - 🎧 I love listening to tech and religious related podcasts
 
 <!--
