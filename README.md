@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## Find me Online
 
-- <a href="https://www.linkedin.com/in/bisaso-ronald-758017120/">LinkedIn 🔗</a> Connect with me on developmental Issues and on Tech Issues 👩‍💻 
+- <a href="https://www.linkedin.com/in/ronnie-bisaso-758017120/">LinkedIn 🔗</a> Connect with me on developmental Issues and on Tech Issues 👩‍💻 
 - <a href="https://twitter.com/bisaso_r">Twitter</a> Tweeting Tech and Fun facts ⚡
 - <a href="mailto:bronnie313@gmail.com.com">Gmail</a> Contact me 📧
 
