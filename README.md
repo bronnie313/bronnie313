@@ -1,10 +1,10 @@
-<div align="center"><img height="300" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"></div>
+ <div align="center"><img height="300" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"></div>
 
 
 ### Hey! 👋 
 I'm Ronald but you can call me Bronnie 😄... yeah. 🌱 I'm a Software Developer with a Bachelor's degree in Computer Science currently looking out for new opportunities and I'm looking to collaborate on  JavaScript, React, Nodejs (express) & Ruby on Rails projects
 
- - 😂 Fun fact: "It works on my machine."
+ - 😂 Fun fact : "It works on my machine."
  - 😅 Rope Jumping (or skipping) for mental health
  - 🎧 I love listening to tech and religious-related podcasts
 
